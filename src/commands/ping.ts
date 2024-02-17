@@ -2,13 +2,15 @@ import { isMessageInstance } from '@sapphire/discord.js-utilities';
 import { Command } from '@sapphire/framework';
 
 export class PingCommand extends Command {
+  
   public constructor(context: Command.LoaderContext, options: Command.Options) {
     super(context, { ...options });
   }
-
+  
   public override registerApplicationCommands(registry: Command.Registry) {
+    const guilds = [process.env.GUILD_ID!];
     registry.registerChatInputCommand((builder) =>
-      builder.setName('ping').setDescription('Ping bot to see if it is alive')
+      {builder.setName('ping').setDescription('Ping bot to see if it is alive')}, {guildIds: guilds}
     );
   }
 

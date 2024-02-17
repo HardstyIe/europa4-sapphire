@@ -2,6 +2,7 @@
   "extends": "@sapphire/ts-config/decorators",
   "compileOnSave": true,
   "compilerOptions": {
+    "outDir": "dist",
     "allowSyntheticDefaultImports": true,
     "alwaysStrict": true,
     "allowJs": true,
