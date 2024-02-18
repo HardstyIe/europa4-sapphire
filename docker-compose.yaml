@@ -1,0 +1,15 @@
+# Set the version of docker compose to use
+version: "3.9"
+
+# The containers that compose the project
+services:
+  db:
+    image: postgres:15-alpine
+    restart: always
+    container_name: europa_database
+    ports:
+      - ${DB_PORT}:5432
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_DBNAME}

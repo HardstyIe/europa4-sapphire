@@ -1,9 +1,10 @@
+import { PrismaClient } from "@prisma/client";
 import { SapphireClient } from "@sapphire/framework";
 import { GatewayIntentBits } from "discord.js";
 import { config } from "dotenv";
 config();
-export const guildIds = [process.env.GUILD_ID!];
 
+const prisma = new PrismaClient();
 const client = new SapphireClient({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages],
 });
