@@ -1,6 +1,6 @@
 import { isMessageInstance } from "@sapphire/discord.js-utilities";
 import { Command } from "@sapphire/framework";
-import { guildIds } from '../config.js';
+import { guildIds } from "../config.js";
 
 export class PingCommand extends Command {
   public constructor(context: Command.LoaderContext, options: Command.Options) {
