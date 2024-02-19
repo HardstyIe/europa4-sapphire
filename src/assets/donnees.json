@@ -1,0 +1,3422 @@
+[
+  {
+    "description": "Rebels",
+    "tag": "REB"
+  },
+  {
+    "description": "Pirates",
+    "tag": "PIR"
+  },
+  {
+    "description": "Natives",
+    "tag": "NAT"
+  },
+  {
+    "description": "Sweden",
+    "tag": "SWE"
+  },
+  {
+    "description": "Denmark",
+    "tag": "DAN"
+  },
+  {
+    "description": "Finland",
+    "tag": "FIN"
+  },
+  {
+    "description": "Gotland",
+    "tag": "GOT"
+  },
+  {
+    "description": "Norway",
+    "tag": "NOR"
+  },
+  {
+    "description": "Holstein",
+    "tag": "SHL"
+  },
+  {
+    "description": "Scandinavia",
+    "tag": "SCA"
+  },
+  {
+    "description": "Estonia",
+    "tag": "EST"
+  },
+  {
+    "description": "Livonia",
+    "tag": "LVA"
+  },
+  {
+    "description": "Sapmi",
+    "tag": "SMI"
+  },
+  {
+    "description": "Karelia",
+    "tag": "KRL"
+  },
+  {
+    "description": "Iceland",
+    "tag": "ICE"
+  },
+  {
+    "description": "Achaea",
+    "tag": "ACH"
+  },
+  {
+    "description": "Albania",
+    "tag": "ALB"
+  },
+  {
+    "description": "Athens",
+    "tag": "ATH"
+  },
+  {
+    "description": "Bosnia",
+    "tag": "BOS"
+  },
+  {
+    "description": "Bulgaria",
+    "tag": "BUL"
+  },
+  {
+    "description": "Byzantium",
+    "tag": "BYZ"
+  },
+  {
+    "description": "Corfu",
+    "tag": "CEP"
+  },
+  {
+    "description": "Croatia",
+    "tag": "CRO"
+  },
+  {
+    "description": "Crete",
+    "tag": "CRT"
+  },
+  {
+    "description": "Cyprus",
+    "tag": "CYP"
+  },
+  {
+    "description": "Dalmatia",
+    "tag": "DAL"
+  },
+  {
+    "description": "Epirus",
+    "tag": "EPI"
+  },
+  {
+    "description": "Greece",
+    "tag": "GRE"
+  },
+  {
+    "description": "The Knights",
+    "tag": "KNI"
+  },
+  {
+    "description": "Morea",
+    "tag": "MOE"
+  },
+  {
+    "description": "Moldavia",
+    "tag": "MOL"
+  },
+  {
+    "description": "Montenegro",
+    "tag": "MON"
+  },
+  {
+    "description": "Naxos",
+    "tag": "NAX"
+  },
+  {
+    "description": "Ragusa",
+    "tag": "RAG"
+  },
+  {
+    "description": "Romania",
+    "tag": "RMN"
+  },
+  {
+    "description": "Serbia",
+    "tag": "SER"
+  },
+  {
+    "description": "Transylvania",
+    "tag": "TRA"
+  },
+  {
+    "description": "Wallachia",
+    "tag": "WAL"
+  },
+  {
+    "description": "Hungary",
+    "tag": "HUN"
+  },
+  {
+    "description": "Nitra",
+    "tag": "SLO"
+  },
+  {
+    "description": "Ottomans",
+    "tag": "TUR"
+  },
+  {
+    "description": "Clanricarde",
+    "tag": "CNN"
+  },
+  {
+    "description": "Cornwall",
+    "tag": "CRN"
+  },
+  {
+    "description": "England",
+    "tag": "ENG"
+  },
+  {
+    "description": "Leinster",
+    "tag": "LEI"
+  },
+  {
+    "description": "Ireland",
+    "tag": "IRE"
+  },
+  {
+    "description": "Thomond",
+    "tag": "MNS"
+  },
+  {
+    "description": "Scotland",
+    "tag": "SCO"
+  },
+  {
+    "description": "Tyrone",
+    "tag": "TYR"
+  },
+  {
+    "description": "Wales",
+    "tag": "WLS"
+  },
+  {
+    "description": "Northumberland",
+    "tag": "NOL"
+  },
+  {
+    "description": "Great Britain",
+    "tag": "GBR"
+  },
+  {
+    "description": "Meath",
+    "tag": "MTH"
+  },
+  {
+    "description": "Ulster",
+    "tag": "ULS"
+  },
+  {
+    "description": "Desmond",
+    "tag": "DMS"
+  },
+  {
+    "description": "Sligo",
+    "tag": "SLN"
+  },
+  {
+    "description": "Kildare",
+    "tag": "KID"
+  },
+  {
+    "description": "Gaeldom",
+    "tag": "HSC"
+  },
+  {
+    "description": "Ormond",
+    "tag": "ORD"
+  },
+  {
+    "description": "Tyrconnell",
+    "tag": "TRY"
+  },
+  {
+    "description": "Offaly",
+    "tag": "FLY"
+  },
+  {
+    "description": "Munster",
+    "tag": "MCM"
+  },
+  {
+    "description": "Mann",
+    "tag": "KOI"
+  },
+  {
+    "description": "The Isles",
+    "tag": "LOI"
+  },
+  {
+    "description": "Brazil",
+    "tag": "BRZ"
+  },
+  {
+    "description": "Canada",
+    "tag": "CAN"
+  },
+  {
+    "description": "Chile",
+    "tag": "CHL"
+  },
+  {
+    "description": "Colombia",
+    "tag": "COL"
+  },
+  {
+    "description": "Haiti",
+    "tag": "HAT"
+  },
+  {
+    "description": "La Plata",
+    "tag": "LAP"
+  },
+  {
+    "description": "Louisiana",
+    "tag": "LOU"
+  },
+  {
+    "description": "Mexico",
+    "tag": "MEX"
+  },
+  {
+    "description": "Peru",
+    "tag": "PEU"
+  },
+  {
+    "description": "Paraguay",
+    "tag": "PRG"
+  },
+  {
+    "description": "Quebec",
+    "tag": "QUE"
+  },
+  {
+    "description": "United Central America",
+    "tag": "CAM"
+  },
+  {
+    "description": "United States",
+    "tag": "USA"
+  },
+  {
+    "description": "Venezuela",
+    "tag": "VNZ"
+  },
+  {
+    "description": "Australia",
+    "tag": "AUS"
+  },
+  {
+    "description": "California",
+    "tag": "CAL"
+  },
+  {
+    "description": "Texas",
+    "tag": "TEX"
+  },
+  {
+    "description": "Cascadia",
+    "tag": "CSC"
+  },
+  {
+    "description": "Alaska",
+    "tag": "ALA"
+  },
+  {
+    "description": "Zealandia",
+    "tag": "NZL"
+  },
+  {
+    "description": "Illinois",
+    "tag": "ILI"
+  },
+  {
+    "description": "Florida",
+    "tag": "FLO"
+  },
+  {
+    "description": "Vermont",
+    "tag": "VRM"
+  },
+  {
+    "description": "Sonora",
+    "tag": "SNA"
+  },
+  {
+    "description": "West Indies",
+    "tag": "WSI"
+  },
+  {
+    "description": "Cuba",
+    "tag": "CUB"
+  },
+  {
+    "description": "Danzig",
+    "tag": "DNZ"
+  },
+  {
+    "description": "Krakow",
+    "tag": "KRA"
+  },
+  {
+    "description": "Lithuania",
+    "tag": "LIT"
+  },
+  {
+    "description": "Livonian Order",
+    "tag": "LIV"
+  },
+  {
+    "description": "Mazovia",
+    "tag": "MAZ"
+  },
+  {
+    "description": "Poland",
+    "tag": "POL"
+  },
+  {
+    "description": "Prussia",
+    "tag": "PRU"
+  },
+  {
+    "description": "Kurland",
+    "tag": "KUR"
+  },
+  {
+    "description": "Riga",
+    "tag": "RIG"
+  },
+  {
+    "description": "Teutonic Order",
+    "tag": "TEU"
+  },
+  {
+    "description": "Commonwealth",
+    "tag": "PLC"
+  },
+  {
+    "description": "Galicia\u2013Volhynia",
+    "tag": "VOL"
+  },
+  {
+    "description": "Kiev",
+    "tag": "KIE"
+  },
+  {
+    "description": "Chernigov",
+    "tag": "CHR"
+  },
+  {
+    "description": "Odoyev",
+    "tag": "OKA"
+  },
+  {
+    "description": "Alen\u00e7on",
+    "tag": "ALE"
+  },
+  {
+    "description": "Strasbourg",
+    "tag": "ALS"
+  },
+  {
+    "description": "Armagnac",
+    "tag": "AMG"
+  },
+  {
+    "description": "Auvergne",
+    "tag": "AUV"
+  },
+  {
+    "description": "Avignon",
+    "tag": "AVI"
+  },
+  {
+    "description": "Bourbonnais",
+    "tag": "BOU"
+  },
+  {
+    "description": "Brittany",
+    "tag": "BRI"
+  },
+  {
+    "description": "Burgundy",
+    "tag": "BUR"
+  },
+  {
+    "description": "Champagne",
+    "tag": "CHP"
+  },
+  {
+    "description": "Corsica",
+    "tag": "COR"
+  },
+  {
+    "description": "Dauphine",
+    "tag": "DAU"
+  },
+  {
+    "description": "Foix",
+    "tag": "FOI"
+  },
+  {
+    "description": "France",
+    "tag": "FRA"
+  },
+  {
+    "description": "Gascony",
+    "tag": "GUY"
+  },
+  {
+    "description": "Nevers",
+    "tag": "NEV"
+  },
+  {
+    "description": "Normandy",
+    "tag": "NRM"
+  },
+  {
+    "description": "Orleans",
+    "tag": "ORL"
+  },
+  {
+    "description": "Picardy",
+    "tag": "PIC"
+  },
+  {
+    "description": "Provence",
+    "tag": "PRO"
+  },
+  {
+    "description": "Sardinia-Piedmont",
+    "tag": "SPI"
+  },
+  {
+    "description": "Toulouse",
+    "tag": "TOU"
+  },
+  {
+    "description": "Berry",
+    "tag": "BER"
+  },
+  {
+    "description": "Aachen",
+    "tag": "AAC"
+  },
+  {
+    "description": "Anhalt",
+    "tag": "ANH"
+  },
+  {
+    "description": "Ansbach",
+    "tag": "ANS"
+  },
+  {
+    "description": "Augsburg",
+    "tag": "AUG"
+  },
+  {
+    "description": "Baden",
+    "tag": "BAD"
+  },
+  {
+    "description": "Bavaria",
+    "tag": "BAV"
+  },
+  {
+    "description": "Bohemia",
+    "tag": "BOH"
+  },
+  {
+    "description": "Brandenburg",
+    "tag": "BRA"
+  },
+  {
+    "description": "Bremen",
+    "tag": "BRE"
+  },
+  {
+    "description": "Brunswick",
+    "tag": "BRU"
+  },
+  {
+    "description": "East Frisia",
+    "tag": "EFR"
+  },
+  {
+    "description": "Frankfurt",
+    "tag": "FRN"
+  },
+  {
+    "description": "Germany",
+    "tag": "GER"
+  },
+  {
+    "description": "Austria",
+    "tag": "HAB"
+  },
+  {
+    "description": "Hamburg",
+    "tag": "HAM"
+  },
+  {
+    "description": "Hanover",
+    "tag": "HAN"
+  },
+  {
+    "description": "Hesse",
+    "tag": "HES"
+  },
+  {
+    "description": "Holy Roman Empire",
+    "tag": "HLR"
+  },
+  {
+    "description": "Cleves",
+    "tag": "KLE"
+  },
+  {
+    "description": "Cologne",
+    "tag": "KOL"
+  },
+  {
+    "description": "Saxe-Lauenburg",
+    "tag": "LAU"
+  },
+  {
+    "description": "Lorraine",
+    "tag": "LOR"
+  },
+  {
+    "description": "L\u00fcneburg",
+    "tag": "LUN"
+  },
+  {
+    "description": "Magdeburg",
+    "tag": "MAG"
+  },
+  {
+    "description": "Mainz",
+    "tag": "MAI"
+  },
+  {
+    "description": "Meissen",
+    "tag": "MEI"
+  },
+  {
+    "description": "Mecklenburg",
+    "tag": "MKL"
+  },
+  {
+    "description": "M\u00fcnster",
+    "tag": "MUN"
+  },
+  {
+    "description": "Moravia",
+    "tag": "MVA"
+  },
+  {
+    "description": "Oldenburg",
+    "tag": "OLD"
+  },
+  {
+    "description": "The Palatinate",
+    "tag": "PAL"
+  },
+  {
+    "description": "Pomerania",
+    "tag": "POM"
+  },
+  {
+    "description": "Saxony",
+    "tag": "SAX"
+  },
+  {
+    "description": "Silesia",
+    "tag": "SIL"
+  },
+  {
+    "description": "Salzburg",
+    "tag": "SLZ"
+  },
+  {
+    "description": "Styria",
+    "tag": "STY"
+  },
+  {
+    "description": "Switzerland",
+    "tag": "SWI"
+  },
+  {
+    "description": "Thuringia",
+    "tag": "THU"
+  },
+  {
+    "description": "Tirol",
+    "tag": "TIR"
+  },
+  {
+    "description": "Trier",
+    "tag": "TRI"
+  },
+  {
+    "description": "Ulm",
+    "tag": "ULM"
+  },
+  {
+    "description": "Wurzburg",
+    "tag": "WBG"
+  },
+  {
+    "description": "Westphalia",
+    "tag": "WES"
+  },
+  {
+    "description": "Wurttemberg",
+    "tag": "WUR"
+  },
+  {
+    "description": "Nuremberg",
+    "tag": "NUM"
+  },
+  {
+    "description": "Memmingen",
+    "tag": "MEM"
+  },
+  {
+    "description": "Verden",
+    "tag": "VER"
+  },
+  {
+    "description": "Nassau",
+    "tag": "NSA"
+  },
+  {
+    "description": "Dortmund",
+    "tag": "RVA"
+  },
+  {
+    "description": "Dithmarschen",
+    "tag": "DTT"
+  },
+  {
+    "description": "Aragon",
+    "tag": "ARA"
+  },
+  {
+    "description": "Castile",
+    "tag": "CAS"
+  },
+  {
+    "description": "Catalonia",
+    "tag": "CAT"
+  },
+  {
+    "description": "Granada",
+    "tag": "GRA"
+  },
+  {
+    "description": "Navarra",
+    "tag": "NAV"
+  },
+  {
+    "description": "Portugal",
+    "tag": "POR"
+  },
+  {
+    "description": "Spain",
+    "tag": "SPA"
+  },
+  {
+    "description": "Galicia",
+    "tag": "GAL"
+  },
+  {
+    "description": "Le\u00f3n",
+    "tag": "LON"
+  },
+  {
+    "description": "Andalusia",
+    "tag": "ADU"
+  },
+  {
+    "description": "Valencia",
+    "tag": "VAL"
+  },
+  {
+    "description": "Asturias",
+    "tag": "ASU"
+  },
+  {
+    "description": "Majorca",
+    "tag": "MJO"
+  },
+  {
+    "description": "Aquileia",
+    "tag": "AQU"
+  },
+  {
+    "description": "Etruria",
+    "tag": "ETR"
+  },
+  {
+    "description": "Ferrara",
+    "tag": "FER"
+  },
+  {
+    "description": "Genoa",
+    "tag": "GEN"
+  },
+  {
+    "description": "Italy",
+    "tag": "ITA"
+  },
+  {
+    "description": "Mantua",
+    "tag": "MAN"
+  },
+  {
+    "description": "Milan",
+    "tag": "MLO"
+  },
+  {
+    "description": "Modena",
+    "tag": "MOD"
+  },
+  {
+    "description": "Naples",
+    "tag": "NAP"
+  },
+  {
+    "description": "The Papal State",
+    "tag": "PAP"
+  },
+  {
+    "description": "Parma",
+    "tag": "PAR"
+  },
+  {
+    "description": "Pisa",
+    "tag": "PIS"
+  },
+  {
+    "description": "Sardinia",
+    "tag": "SAR"
+  },
+  {
+    "description": "Savoy",
+    "tag": "SAV"
+  },
+  {
+    "description": "Sicily",
+    "tag": "SIC"
+  },
+  {
+    "description": "Siena",
+    "tag": "SIE"
+  },
+  {
+    "description": "Tuscany",
+    "tag": "TUS"
+  },
+  {
+    "description": "Urbino",
+    "tag": "URB"
+  },
+  {
+    "description": "Venice",
+    "tag": "VEN"
+  },
+  {
+    "description": "Montferrat",
+    "tag": "MFA"
+  },
+  {
+    "description": "Lucca",
+    "tag": "LUC"
+  },
+  {
+    "description": "Florence",
+    "tag": "LAN"
+  },
+  {
+    "description": "Malta",
+    "tag": "JAI"
+  },
+  {
+    "description": "Brabant",
+    "tag": "BRB"
+  },
+  {
+    "description": "Flanders",
+    "tag": "FLA"
+  },
+  {
+    "description": "Friesland",
+    "tag": "FRI"
+  },
+  {
+    "description": "Gelre",
+    "tag": "GEL"
+  },
+  {
+    "description": "Hainaut",
+    "tag": "HAI"
+  },
+  {
+    "description": "Holland",
+    "tag": "HOL"
+  },
+  {
+    "description": "Liege",
+    "tag": "LIE"
+  },
+  {
+    "description": "Luxembourg",
+    "tag": "LUX"
+  },
+  {
+    "description": "Netherlands",
+    "tag": "NED"
+  },
+  {
+    "description": "Utrecht",
+    "tag": "UTR"
+  },
+  {
+    "description": "Armenia",
+    "tag": "ARM"
+  },
+  {
+    "description": "Astrakhan",
+    "tag": "AST"
+  },
+  {
+    "description": "Crimea",
+    "tag": "CRI"
+  },
+  {
+    "description": "Georgia",
+    "tag": "GEO"
+  },
+  {
+    "description": "Kazan",
+    "tag": "KAZ"
+  },
+  {
+    "description": "Muscovy",
+    "tag": "MOS"
+  },
+  {
+    "description": "Novgorod",
+    "tag": "NOV"
+  },
+  {
+    "description": "Pskov",
+    "tag": "PSK"
+  },
+  {
+    "description": "Qasim",
+    "tag": "QAS"
+  },
+  {
+    "description": "Russia",
+    "tag": "RUS"
+  },
+  {
+    "description": "Ryazan",
+    "tag": "RYA"
+  },
+  {
+    "description": "Tver",
+    "tag": "TVE"
+  },
+  {
+    "description": "Ruthenia",
+    "tag": "UKR"
+  },
+  {
+    "description": "Yaroslavl",
+    "tag": "YAR"
+  },
+  {
+    "description": "Zaporozhie",
+    "tag": "ZAZ"
+  },
+  {
+    "description": "Nogai",
+    "tag": "NOG"
+  },
+  {
+    "description": "Sibir",
+    "tag": "SIB"
+  },
+  {
+    "description": "Polotsk",
+    "tag": "PLT"
+  },
+  {
+    "description": "Perm",
+    "tag": "PRM"
+  },
+  {
+    "description": "Theodoro",
+    "tag": "FEO"
+  },
+  {
+    "description": "Bashkiria",
+    "tag": "BSH"
+  },
+  {
+    "description": "Beloozero",
+    "tag": "BLO"
+  },
+  {
+    "description": "Rostov",
+    "tag": "RSO"
+  },
+  {
+    "description": "Great Horde",
+    "tag": "GOL"
+  },
+  {
+    "description": "Golden Horde",
+    "tag": "GLH"
+  },
+  {
+    "description": "Aden",
+    "tag": "ADE"
+  },
+  {
+    "description": "Haasa",
+    "tag": "ALH"
+  },
+  {
+    "description": "Anizah",
+    "tag": "ANZ"
+  },
+  {
+    "description": "Arabia",
+    "tag": "ARB"
+  },
+  {
+    "description": "Ardalan",
+    "tag": "ARD"
+  },
+  {
+    "description": "Soran",
+    "tag": "BHT"
+  },
+  {
+    "description": "Dawasir",
+    "tag": "DAW"
+  },
+  {
+    "description": "Eretna",
+    "tag": "ERE"
+  },
+  {
+    "description": "Fadl",
+    "tag": "FAD"
+  },
+  {
+    "description": "Germiyan",
+    "tag": "GRM"
+  },
+  {
+    "description": "Hadramut",
+    "tag": "HDR"
+  },
+  {
+    "description": "Hejaz",
+    "tag": "HED"
+  },
+  {
+    "description": "Lebanon",
+    "tag": "LEB"
+  },
+  {
+    "description": "Makuria",
+    "tag": "MAK"
+  },
+  {
+    "description": "Medina",
+    "tag": "MDA"
+  },
+  {
+    "description": "Mikhlaf",
+    "tag": "MFL"
+  },
+  {
+    "description": "Mahra",
+    "tag": "MHR"
+  },
+  {
+    "description": "Najd",
+    "tag": "NAJ"
+  },
+  {
+    "description": "Najran",
+    "tag": "NJR"
+  },
+  {
+    "description": "Oman",
+    "tag": "OMA"
+  },
+  {
+    "description": "Rassids",
+    "tag": "RAS"
+  },
+  {
+    "description": "Shammar",
+    "tag": "SHM"
+  },
+  {
+    "description": "Sharjah",
+    "tag": "SHR"
+  },
+  {
+    "description": "Shirvan",
+    "tag": "SRV"
+  },
+  {
+    "description": "Yas",
+    "tag": "YAS"
+  },
+  {
+    "description": "Yemen",
+    "tag": "YEM"
+  },
+  {
+    "description": "Hisn Kayfa",
+    "tag": "HSN"
+  },
+  {
+    "description": "Bitlis",
+    "tag": "BTL"
+  },
+  {
+    "description": "Aq Qoyunlu",
+    "tag": "AKK"
+  },
+  {
+    "description": "Aydin",
+    "tag": "AYD"
+  },
+  {
+    "description": "Candar",
+    "tag": "CND"
+  },
+  {
+    "description": "Dulkadir",
+    "tag": "DUL"
+  },
+  {
+    "description": "Iraq",
+    "tag": "IRQ"
+  },
+  {
+    "description": "Karaman",
+    "tag": "KAR"
+  },
+  {
+    "description": "Syria",
+    "tag": "SYR"
+  },
+  {
+    "description": "Trebizond",
+    "tag": "TRE"
+  },
+  {
+    "description": "Saruhan",
+    "tag": "SRU"
+  },
+  {
+    "description": "Mentese",
+    "tag": "MEN"
+  },
+  {
+    "description": "Ramazan",
+    "tag": "RAM"
+  },
+  {
+    "description": "Avaria",
+    "tag": "AVR"
+  },
+  {
+    "description": "Kharabakh",
+    "tag": "MLK"
+  },
+  {
+    "description": "Samtskhe",
+    "tag": "SME"
+  },
+  {
+    "description": "Ardabil",
+    "tag": "ARL"
+  },
+  {
+    "description": "Mushasha",
+    "tag": "MSY"
+  },
+  {
+    "description": "R\u00fbm",
+    "tag": "RUM"
+  },
+  {
+    "description": "Algiers",
+    "tag": "ALG"
+  },
+  {
+    "description": "Fez",
+    "tag": "FEZ"
+  },
+  {
+    "description": "Mamluks",
+    "tag": "MAM"
+  },
+  {
+    "description": "Morocco",
+    "tag": "MOR"
+  },
+  {
+    "description": "Tripoli",
+    "tag": "TRP"
+  },
+  {
+    "description": "Tunis",
+    "tag": "TUN"
+  },
+  {
+    "description": "Egypt",
+    "tag": "EGY"
+  },
+  {
+    "description": "Kabylia",
+    "tag": "KBA"
+  },
+  {
+    "description": "Tafilalt",
+    "tag": "TFL"
+  },
+  {
+    "description": "Sus",
+    "tag": "SOS"
+  },
+  {
+    "description": "Tlemcen",
+    "tag": "TLC"
+  },
+  {
+    "description": "Touggourt",
+    "tag": "TGT"
+  },
+  {
+    "description": "Djerid",
+    "tag": "GHD"
+  },
+  {
+    "description": "Fezzan",
+    "tag": "FZA"
+  },
+  {
+    "description": "Mzab",
+    "tag": "MZB"
+  },
+  {
+    "description": "Sal\u00e9",
+    "tag": "SLE"
+  },
+  {
+    "description": "T\u00e9touan",
+    "tag": "TET"
+  },
+  {
+    "description": "Marrakesh",
+    "tag": "MRK"
+  },
+  {
+    "description": "Kazakh",
+    "tag": "KZH"
+  },
+  {
+    "description": "Khiva",
+    "tag": "KHI"
+  },
+  {
+    "description": "Uzbek",
+    "tag": "SHY"
+  },
+  {
+    "description": "Ferghana",
+    "tag": "KOK"
+  },
+  {
+    "description": "Bukhara",
+    "tag": "BUK"
+  },
+  {
+    "description": "Afghanistan",
+    "tag": "AFG"
+  },
+  {
+    "description": "Khorasan",
+    "tag": "KHO"
+  },
+  {
+    "description": "Persia",
+    "tag": "PER"
+  },
+  {
+    "description": "Qara Qoyunlu",
+    "tag": "QAR"
+  },
+  {
+    "description": "Timurids",
+    "tag": "TIM"
+  },
+  {
+    "description": "Transoxiana",
+    "tag": "TRS"
+  },
+  {
+    "description": "Gilan",
+    "tag": "KRY"
+  },
+  {
+    "description": "Circassia",
+    "tag": "CIR"
+  },
+  {
+    "description": "Gazikumukh",
+    "tag": "GAZ"
+  },
+  {
+    "description": "Imereti",
+    "tag": "IME"
+  },
+  {
+    "description": "Mazandaran",
+    "tag": "TAB"
+  },
+  {
+    "description": "Hormuz",
+    "tag": "ORM"
+  },
+  {
+    "description": "Luristan",
+    "tag": "LRI"
+  },
+  {
+    "description": "Sistan",
+    "tag": "SIS"
+  },
+  {
+    "description": "Biapas",
+    "tag": "BPI"
+  },
+  {
+    "description": "Fars",
+    "tag": "FRS"
+  },
+  {
+    "description": "Kerman",
+    "tag": "KRM"
+  },
+  {
+    "description": "Yazd",
+    "tag": "YZD"
+  },
+  {
+    "description": "Isfahan",
+    "tag": "ISF"
+  },
+  {
+    "description": "Tabriz",
+    "tag": "TBR"
+  },
+  {
+    "description": "Basra",
+    "tag": "BSR"
+  },
+  {
+    "description": "Maregheh",
+    "tag": "MGR"
+  },
+  {
+    "description": "Ajam",
+    "tag": "QOM"
+  },
+  {
+    "description": "Aztec",
+    "tag": "AZT"
+  },
+  {
+    "description": "Cherokee",
+    "tag": "CHE"
+  },
+  {
+    "description": "Chimu",
+    "tag": "CHM"
+  },
+  {
+    "description": "Creek",
+    "tag": "CRE"
+  },
+  {
+    "description": "Huron",
+    "tag": "HUR"
+  },
+  {
+    "description": "Inca",
+    "tag": "INC"
+  },
+  {
+    "description": "Iroquois",
+    "tag": "IRO"
+  },
+  {
+    "description": "Maya",
+    "tag": "MAY"
+  },
+  {
+    "description": "Shawnee",
+    "tag": "SHA"
+  },
+  {
+    "description": "Zapotec",
+    "tag": "ZAP"
+  },
+  {
+    "description": "Ashanti",
+    "tag": "ASH"
+  },
+  {
+    "description": "Benin",
+    "tag": "BEN"
+  },
+  {
+    "description": "Ethiopia",
+    "tag": "ETH"
+  },
+  {
+    "description": "Kongo",
+    "tag": "KON"
+  },
+  {
+    "description": "Mali",
+    "tag": "MAL"
+  },
+  {
+    "description": "Funj",
+    "tag": "NUB"
+  },
+  {
+    "description": "Songhai",
+    "tag": "SON"
+  },
+  {
+    "description": "Kilwa",
+    "tag": "ZAN"
+  },
+  {
+    "description": "Mutapa",
+    "tag": "ZIM"
+  },
+  {
+    "description": "Adal",
+    "tag": "ADA"
+  },
+  {
+    "description": "Hausa",
+    "tag": "HAU"
+  },
+  {
+    "description": "Kanem Bornu",
+    "tag": "KBO"
+  },
+  {
+    "description": "Loango",
+    "tag": "LOA"
+  },
+  {
+    "description": "Oyo",
+    "tag": "OYO"
+  },
+  {
+    "description": "Segu",
+    "tag": "SOF"
+  },
+  {
+    "description": "Sokoto",
+    "tag": "SOK"
+  },
+  {
+    "description": "Jolof",
+    "tag": "JOL"
+  },
+  {
+    "description": "Sofala",
+    "tag": "SFA"
+  },
+  {
+    "description": "Mombasa",
+    "tag": "MBA"
+  },
+  {
+    "description": "Malindi",
+    "tag": "MLI"
+  },
+  {
+    "description": "Ajuuraan",
+    "tag": "AJU"
+  },
+  {
+    "description": "Mogadishu",
+    "tag": "MDI"
+  },
+  {
+    "description": "Ennarea",
+    "tag": "ENA"
+  },
+  {
+    "description": "Aussa",
+    "tag": "AFA"
+  },
+  {
+    "description": "Alodia",
+    "tag": "ALO"
+  },
+  {
+    "description": "Darfur",
+    "tag": "DAR"
+  },
+  {
+    "description": "Geledi",
+    "tag": "GLE"
+  },
+  {
+    "description": "Harar",
+    "tag": "HAR"
+  },
+  {
+    "description": "Hobyo",
+    "tag": "HOB"
+  },
+  {
+    "description": "Kaffa",
+    "tag": "KAF"
+  },
+  {
+    "description": "Medri Bahri",
+    "tag": "MED"
+  },
+  {
+    "description": "Majeerteen",
+    "tag": "MJE"
+  },
+  {
+    "description": "Marehan",
+    "tag": "MRE"
+  },
+  {
+    "description": "Pate",
+    "tag": "PTE"
+  },
+  {
+    "description": "Warsangali",
+    "tag": "WAR"
+  },
+  {
+    "description": "Semien",
+    "tag": "BTI"
+  },
+  {
+    "description": "Beja",
+    "tag": "BEJ"
+  },
+  {
+    "description": "Jimma",
+    "tag": "JIM"
+  },
+  {
+    "description": "Welayta",
+    "tag": "WLY"
+  },
+  {
+    "description": "Damot",
+    "tag": "DAM"
+  },
+  {
+    "description": "Hadiya",
+    "tag": "HDY"
+  },
+  {
+    "description": "Shewa",
+    "tag": "SOA"
+  },
+  {
+    "description": "Janjiro",
+    "tag": "JJI"
+  },
+  {
+    "description": "Dongola",
+    "tag": "ABB"
+  },
+  {
+    "description": "Tyo",
+    "tag": "TYO"
+  },
+  {
+    "description": "Soyo",
+    "tag": "SYO"
+  },
+  {
+    "description": "Kasanje",
+    "tag": "KSJ"
+  },
+  {
+    "description": "Luba",
+    "tag": "LUB"
+  },
+  {
+    "description": "Lunda",
+    "tag": "LND"
+  },
+  {
+    "description": "Chokwe",
+    "tag": "CKW"
+  },
+  {
+    "description": "Kikondja",
+    "tag": "KIK"
+  },
+  {
+    "description": "Kazembe",
+    "tag": "KZB"
+  },
+  {
+    "description": "Yaka",
+    "tag": "YAK"
+  },
+  {
+    "description": "Kalundwe",
+    "tag": "KLD"
+  },
+  {
+    "description": "Kuba",
+    "tag": "KUB"
+  },
+  {
+    "description": "Rwanda",
+    "tag": "RWA"
+  },
+  {
+    "description": "Burundi",
+    "tag": "BUU"
+  },
+  {
+    "description": "Buganda",
+    "tag": "BUG"
+  },
+  {
+    "description": "Nkore",
+    "tag": "NKO"
+  },
+  {
+    "description": "Karagwe",
+    "tag": "KRW"
+  },
+  {
+    "description": "Bunyoro",
+    "tag": "BNY"
+  },
+  {
+    "description": "Busoga",
+    "tag": "BSG"
+  },
+  {
+    "description": "Buha",
+    "tag": "UBH"
+  },
+  {
+    "description": "Maravi",
+    "tag": "MRA"
+  },
+  {
+    "description": "Lundu",
+    "tag": "LDU"
+  },
+  {
+    "description": "Tumbuka",
+    "tag": "TBK"
+  },
+  {
+    "description": "Makua",
+    "tag": "MKU"
+  },
+  {
+    "description": "Butua",
+    "tag": "RZW"
+  },
+  {
+    "description": "Imerina",
+    "tag": "MIR"
+  },
+  {
+    "description": "Sakalava",
+    "tag": "SKA"
+  },
+  {
+    "description": "Betsimisaraka",
+    "tag": "BTS"
+  },
+  {
+    "description": "Mahafaly",
+    "tag": "MFY"
+  },
+  {
+    "description": "Antemoro",
+    "tag": "ANT"
+  },
+  {
+    "description": "Annam",
+    "tag": "ANN"
+  },
+  {
+    "description": "Arakan",
+    "tag": "ARK"
+  },
+  {
+    "description": "Aceh",
+    "tag": "ATJ"
+  },
+  {
+    "description": "Ayutthaya",
+    "tag": "AYU"
+  },
+  {
+    "description": "Bali",
+    "tag": "BLI"
+  },
+  {
+    "description": "Banten",
+    "tag": "BAN"
+  },
+  {
+    "description": "Brunei",
+    "tag": "BEI"
+  },
+  {
+    "description": "Champa",
+    "tag": "CHA"
+  },
+  {
+    "description": "Chagatai",
+    "tag": "CHG"
+  },
+  {
+    "description": "Champasak",
+    "tag": "CHK"
+  },
+  {
+    "description": "Dai Viet",
+    "tag": "DAI"
+  },
+  {
+    "description": "Japan",
+    "tag": "JAP"
+  },
+  {
+    "description": "Amago",
+    "tag": "AMA"
+  },
+  {
+    "description": "Asakura",
+    "tag": "ASA"
+  },
+  {
+    "description": "Chosokabe",
+    "tag": "CSK"
+  },
+  {
+    "description": "Date",
+    "tag": "DTE"
+  },
+  {
+    "description": "Hojo",
+    "tag": "HJO"
+  },
+  {
+    "description": "Hosokawa",
+    "tag": "HSK"
+  },
+  {
+    "description": "Hatakeyama",
+    "tag": "HTK"
+  },
+  {
+    "description": "Ikeda",
+    "tag": "IKE"
+  },
+  {
+    "description": "Imagawa",
+    "tag": "IMG"
+  },
+  {
+    "description": "Maeda",
+    "tag": "MAE"
+  },
+  {
+    "description": "Mori",
+    "tag": "MRI"
+  },
+  {
+    "description": "Oda",
+    "tag": "ODA"
+  },
+  {
+    "description": "Otomo",
+    "tag": "OTM"
+  },
+  {
+    "description": "Ouchi",
+    "tag": "OUC"
+  },
+  {
+    "description": "Shiba",
+    "tag": "SBA"
+  },
+  {
+    "description": "Shimazu",
+    "tag": "SMZ"
+  },
+  {
+    "description": "Takeda",
+    "tag": "TKD"
+  },
+  {
+    "description": "Tokugawa",
+    "tag": "TKG"
+  },
+  {
+    "description": "Uesugi",
+    "tag": "UES"
+  },
+  {
+    "description": "Yamana",
+    "tag": "YMN"
+  },
+  {
+    "description": "Nanbu",
+    "tag": "RFR"
+  },
+  {
+    "description": "Ashikaga",
+    "tag": "ASK"
+  },
+  {
+    "description": "Kitabatake",
+    "tag": "KTB"
+  },
+  {
+    "description": "Ainu",
+    "tag": "ANU"
+  },
+  {
+    "description": "Akamatsu",
+    "tag": "AKM"
+  },
+  {
+    "description": "Ando",
+    "tag": "AKT"
+  },
+  {
+    "description": "Chiba",
+    "tag": "CBA"
+  },
+  {
+    "description": "Isshiki",
+    "tag": "ISK"
+  },
+  {
+    "description": "Ito",
+    "tag": "ITO"
+  },
+  {
+    "description": "Kikuchi",
+    "tag": "KKC"
+  },
+  {
+    "description": "Kono",
+    "tag": "KNO"
+  },
+  {
+    "description": "Ogasawara",
+    "tag": "OGS"
+  },
+  {
+    "description": "Shoni",
+    "tag": "SHN"
+  },
+  {
+    "description": "Satake",
+    "tag": "STK"
+  },
+  {
+    "description": "Toki",
+    "tag": "TKI"
+  },
+  {
+    "description": "Utsunomiya",
+    "tag": "UTN"
+  },
+  {
+    "description": "Tsutsui",
+    "tag": "TTI"
+  },
+  {
+    "description": "Mongolia",
+    "tag": "KHA"
+  },
+  {
+    "description": "Khmer",
+    "tag": "KHM"
+  },
+  {
+    "description": "Korea",
+    "tag": "KOR"
+  },
+  {
+    "description": "Lan Na",
+    "tag": "LNA"
+  },
+  {
+    "description": "Luang Prabang",
+    "tag": "LUA"
+  },
+  {
+    "description": "Lan Xang",
+    "tag": "LXA"
+  },
+  {
+    "description": "Majapahit",
+    "tag": "MAJ"
+  },
+  {
+    "description": "Manchu",
+    "tag": "MCH"
+  },
+  {
+    "description": "Makassar",
+    "tag": "MKS"
+  },
+  {
+    "description": "Malacca",
+    "tag": "MLC"
+  },
+  {
+    "description": "Ming",
+    "tag": "MNG"
+  },
+  {
+    "description": "Mataram",
+    "tag": "MTR"
+  },
+  {
+    "description": "Oirat",
+    "tag": "OIR"
+  },
+  {
+    "description": "Pattani",
+    "tag": "PAT"
+  },
+  {
+    "description": "Pegu",
+    "tag": "PEG"
+  },
+  {
+    "description": "Qing",
+    "tag": "QNG"
+  },
+  {
+    "description": "Ryukyu",
+    "tag": "RYU"
+  },
+  {
+    "description": "Shan",
+    "tag": "SST"
+  },
+  {
+    "description": "Sukhothai",
+    "tag": "SUK"
+  },
+  {
+    "description": "Sulu",
+    "tag": "SUL"
+  },
+  {
+    "description": "Taungu",
+    "tag": "TAU"
+  },
+  {
+    "description": "Tibet",
+    "tag": "TIB"
+  },
+  {
+    "description": "Tonkin",
+    "tag": "TOK"
+  },
+  {
+    "description": "Vientiane",
+    "tag": "VIE"
+  },
+  {
+    "description": "Zhou",
+    "tag": "CZH"
+  },
+  {
+    "description": "Shun",
+    "tag": "CSH"
+  },
+  {
+    "description": "Xi",
+    "tag": "CXI"
+  },
+  {
+    "description": "Yuan",
+    "tag": "YUA"
+  },
+  {
+    "description": "Tungning",
+    "tag": "FRM"
+  },
+  {
+    "description": "Ilkhanate",
+    "tag": "ILK"
+  },
+  {
+    "description": "Kalmyk",
+    "tag": "KLM"
+  },
+  {
+    "description": "Mongol Empire",
+    "tag": "MGE"
+  },
+  {
+    "description": "So",
+    "tag": "SOO"
+  },
+  {
+    "description": "Nivkh",
+    "tag": "NVK"
+  },
+  {
+    "description": "Solon",
+    "tag": "SOL"
+  },
+  {
+    "description": "Donghai",
+    "tag": "EJZ"
+  },
+  {
+    "description": "Udege",
+    "tag": "NHX"
+  },
+  {
+    "description": "Yeren",
+    "tag": "MYR"
+  },
+  {
+    "description": "Haixi",
+    "tag": "MHX"
+  },
+  {
+    "description": "Jianzhou",
+    "tag": "MJZ"
+  },
+  {
+    "description": "Korchin",
+    "tag": "KRC"
+  },
+  {
+    "description": "Khalkha",
+    "tag": "KLK"
+  },
+  {
+    "description": "Kara Del",
+    "tag": "HMI"
+  },
+  {
+    "description": "Dzungar",
+    "tag": "ZUN"
+  },
+  {
+    "description": "Yarkand",
+    "tag": "KAS"
+  },
+  {
+    "description": "Chahar",
+    "tag": "CHH"
+  },
+  {
+    "description": "Khoshuud",
+    "tag": "KSD"
+  },
+  {
+    "description": "Sarig Yogir",
+    "tag": "SYG"
+  },
+  {
+    "description": "Tsang",
+    "tag": "UTS"
+  },
+  {
+    "description": "Kham",
+    "tag": "KAM"
+  },
+  {
+    "description": "Guge",
+    "tag": "GUG"
+  },
+  {
+    "description": "U",
+    "tag": "PHA"
+  },
+  {
+    "description": "Dali",
+    "tag": "CDL"
+  },
+  {
+    "description": "Yi",
+    "tag": "CYI"
+  },
+  {
+    "description": "Miao",
+    "tag": "CMI"
+  },
+  {
+    "description": "Min",
+    "tag": "MIN"
+  },
+  {
+    "description": "Yue",
+    "tag": "YUE"
+  },
+  {
+    "description": "Shu",
+    "tag": "SHU"
+  },
+  {
+    "description": "Ning",
+    "tag": "NNG"
+  },
+  {
+    "description": "Chu",
+    "tag": "CHC"
+  },
+  {
+    "description": "Tang",
+    "tag": "TNG"
+  },
+  {
+    "description": "Wu",
+    "tag": "WUU"
+  },
+  {
+    "description": "Qi",
+    "tag": "QIC"
+  },
+  {
+    "description": "Yan",
+    "tag": "YAN"
+  },
+  {
+    "description": "Jin",
+    "tag": "JIN"
+  },
+  {
+    "description": "Liang",
+    "tag": "LNG"
+  },
+  {
+    "description": "Qin",
+    "tag": "QIN"
+  },
+  {
+    "description": "Huai",
+    "tag": "HUA"
+  },
+  {
+    "description": "Changsheng",
+    "tag": "CGS"
+  },
+  {
+    "description": "Baluchistan",
+    "tag": "BAL"
+  },
+  {
+    "description": "Bengal",
+    "tag": "BNG"
+  },
+  {
+    "description": "Bijapur",
+    "tag": "BIJ"
+  },
+  {
+    "description": "Bahmanis",
+    "tag": "BAH"
+  },
+  {
+    "description": "Delhi",
+    "tag": "DLH"
+  },
+  {
+    "description": "Golkonda",
+    "tag": "GOC"
+  },
+  {
+    "description": "Deccan",
+    "tag": "DEC"
+  },
+  {
+    "description": "Marathas",
+    "tag": "MAR"
+  },
+  {
+    "description": "Mughals",
+    "tag": "MUG"
+  },
+  {
+    "description": "Mysore",
+    "tag": "MYS"
+  },
+  {
+    "description": "Vijayanagar",
+    "tag": "VIJ"
+  },
+  {
+    "description": "Ahmednagar",
+    "tag": "AHM"
+  },
+  {
+    "description": "Assam",
+    "tag": "ASS"
+  },
+  {
+    "description": "Gujarat",
+    "tag": "GUJ"
+  },
+  {
+    "description": "Jaunpur",
+    "tag": "JNP"
+  },
+  {
+    "description": "Madurai",
+    "tag": "MAD"
+  },
+  {
+    "description": "Malwa",
+    "tag": "MLW"
+  },
+  {
+    "description": "Marwar",
+    "tag": "MAW"
+  },
+  {
+    "description": "Mewar",
+    "tag": "MER"
+  },
+  {
+    "description": "Multan",
+    "tag": "MUL"
+  },
+  {
+    "description": "Nagpur",
+    "tag": "NAG"
+  },
+  {
+    "description": "Nepal",
+    "tag": "NPL"
+  },
+  {
+    "description": "Orissa",
+    "tag": "ORI"
+  },
+  {
+    "description": "Punjab",
+    "tag": "PUN"
+  },
+  {
+    "description": "Sindh",
+    "tag": "SND"
+  },
+  {
+    "description": "Berar",
+    "tag": "BRR"
+  },
+  {
+    "description": "Jangladesh",
+    "tag": "JAN"
+  },
+  {
+    "description": "Carnatic",
+    "tag": "KRK"
+  },
+  {
+    "description": "Garha",
+    "tag": "GDW"
+  },
+  {
+    "description": "Garjat",
+    "tag": "GRJ"
+  },
+  {
+    "description": "Gwalior",
+    "tag": "GWA"
+  },
+  {
+    "description": "Dhundhar",
+    "tag": "DHU"
+  },
+  {
+    "description": "Kashmir",
+    "tag": "KSH"
+  },
+  {
+    "description": "Keladi",
+    "tag": "KLN"
+  },
+  {
+    "description": "Khandesh",
+    "tag": "KHD"
+  },
+  {
+    "description": "Oudh",
+    "tag": "ODH"
+  },
+  {
+    "description": "Venad",
+    "tag": "VND"
+  },
+  {
+    "description": "Calicut",
+    "tag": "MAB"
+  },
+  {
+    "description": "Mewat",
+    "tag": "MEW"
+  },
+  {
+    "description": "Baroda",
+    "tag": "BDA"
+  },
+  {
+    "description": "Bastar",
+    "tag": "BST"
+  },
+  {
+    "description": "Bhutan",
+    "tag": "BHU"
+  },
+  {
+    "description": "Bundelkhand",
+    "tag": "BND"
+  },
+  {
+    "description": "Kotte",
+    "tag": "CEY"
+  },
+  {
+    "description": "Jaisalmer",
+    "tag": "JSL"
+  },
+  {
+    "description": "Kachar",
+    "tag": "KAC"
+  },
+  {
+    "description": "Koch",
+    "tag": "KMT"
+  },
+  {
+    "description": "Kangra",
+    "tag": "KGR"
+  },
+  {
+    "description": "Kutch",
+    "tag": "KAT"
+  },
+  {
+    "description": "Kochin",
+    "tag": "KOC"
+  },
+  {
+    "description": "Manipur",
+    "tag": "MLB"
+  },
+  {
+    "description": "Hadoti",
+    "tag": "HAD"
+  },
+  {
+    "description": "Nagaur",
+    "tag": "NGA"
+  },
+  {
+    "description": "Rohilkhand",
+    "tag": "RMP"
+  },
+  {
+    "description": "Ladakh",
+    "tag": "LDK"
+  },
+  {
+    "description": "Baghelkhand",
+    "tag": "BGL"
+  },
+  {
+    "description": "Jaffna",
+    "tag": "JFN"
+  },
+  {
+    "description": "Patiala",
+    "tag": "PTA"
+  },
+  {
+    "description": "Garhwal",
+    "tag": "GHR"
+  },
+  {
+    "description": "Chanda",
+    "tag": "CHD"
+  },
+  {
+    "description": "Jharkhand",
+    "tag": "NGP"
+  },
+  {
+    "description": "Habsan",
+    "tag": "JAJ"
+  },
+  {
+    "description": "Tirhut",
+    "tag": "TRT"
+  },
+  {
+    "description": "Rewa Kantha",
+    "tag": "CMP"
+  },
+  {
+    "description": "Baglana",
+    "tag": "BGA"
+  },
+  {
+    "description": "Tripura",
+    "tag": "TPR"
+  },
+  {
+    "description": "Sadiya",
+    "tag": "SDY"
+  },
+  {
+    "description": "Bharat",
+    "tag": "BHA"
+  },
+  {
+    "description": "Andhra",
+    "tag": "YOR"
+  },
+  {
+    "description": "Maldives",
+    "tag": "DGL"
+  },
+  {
+    "description": "Bishnupur",
+    "tag": "MBL"
+  },
+  {
+    "description": "Sikkim",
+    "tag": "SKK"
+  },
+  {
+    "description": "Idar",
+    "tag": "IDR"
+  },
+  {
+    "description": "Jhalavad",
+    "tag": "JLV"
+  },
+  {
+    "description": "Palitana",
+    "tag": "PTL"
+  },
+  {
+    "description": "Navanagar",
+    "tag": "NVR"
+  },
+  {
+    "description": "Rajkot",
+    "tag": "RJK"
+  },
+  {
+    "description": "Junagarh",
+    "tag": "JGD"
+  },
+  {
+    "description": "Porbandar",
+    "tag": "PRB"
+  },
+  {
+    "description": "Kalinjar",
+    "tag": "PAN"
+  },
+  {
+    "description": "Kalpi",
+    "tag": "KLP"
+  },
+  {
+    "description": "Sambalpur",
+    "tag": "SBP"
+  },
+  {
+    "description": "Patna",
+    "tag": "PTT"
+  },
+  {
+    "description": "Ratanpur",
+    "tag": "RTT"
+  },
+  {
+    "description": "Kalahandi",
+    "tag": "KLH"
+  },
+  {
+    "description": "Keonhjar",
+    "tag": "KJH"
+  },
+  {
+    "description": "Parlakhimidi",
+    "tag": "PRD"
+  },
+  {
+    "description": "Jeypore",
+    "tag": "JPR"
+  },
+  {
+    "description": "Surguja",
+    "tag": "SRG"
+  },
+  {
+    "description": "Kandy",
+    "tag": "KND"
+  },
+  {
+    "description": "Telingana",
+    "tag": "TLG"
+  },
+  {
+    "description": "Kolathunad",
+    "tag": "KLT"
+  },
+  {
+    "description": "Dang",
+    "tag": "DNG"
+  },
+  {
+    "description": "Doti",
+    "tag": "DTI"
+  },
+  {
+    "description": "Gorkha",
+    "tag": "GRK"
+  },
+  {
+    "description": "Jumla",
+    "tag": "JML"
+  },
+  {
+    "description": "Limbuwan",
+    "tag": "LWA"
+  },
+  {
+    "description": "Makwanpur",
+    "tag": "MKP"
+  },
+  {
+    "description": "Sirmur",
+    "tag": "SRM"
+  },
+  {
+    "description": "Kathmandu",
+    "tag": "KTU"
+  },
+  {
+    "description": "Kumaon",
+    "tag": "KMN"
+  },
+  {
+    "description": "Gingee",
+    "tag": "GNG"
+  },
+  {
+    "description": "Tanjore",
+    "tag": "TNJ"
+  },
+  {
+    "description": "Sirhind",
+    "tag": "SRH"
+  },
+  {
+    "description": "Rajputana",
+    "tag": "RJP"
+  },
+  {
+    "description": "Bar",
+    "tag": "BAR"
+  },
+  {
+    "description": "L\u00fcbeck",
+    "tag": "HSA"
+  },
+  {
+    "description": "Smolensk",
+    "tag": "SMO"
+  },
+  {
+    "description": "Nizhny Novgorod",
+    "tag": "NZH"
+  },
+  {
+    "description": "Jerusalem",
+    "tag": "KOJ"
+  },
+  {
+    "description": "Malaya",
+    "tag": "MSA"
+  },
+  {
+    "description": "Hindustan",
+    "tag": "HIN"
+  },
+  {
+    "description": "Abenaki",
+    "tag": "ABE"
+  },
+  {
+    "description": "Apache",
+    "tag": "APA"
+  },
+  {
+    "description": "Assiniboine",
+    "tag": "ASI"
+  },
+  {
+    "description": "Blackfoot",
+    "tag": "BLA"
+  },
+  {
+    "description": "Caddo",
+    "tag": "CAD"
+  },
+  {
+    "description": "Chickasaw",
+    "tag": "CHI"
+  },
+  {
+    "description": "Choctaw",
+    "tag": "CHO"
+  },
+  {
+    "description": "Cheyenne",
+    "tag": "CHY"
+  },
+  {
+    "description": "Comanche",
+    "tag": "COM"
+  },
+  {
+    "description": "Fox",
+    "tag": "FOX"
+  },
+  {
+    "description": "Illiniwek",
+    "tag": "ILL"
+  },
+  {
+    "description": "Lenape",
+    "tag": "LEN"
+  },
+  {
+    "description": "Mahican",
+    "tag": "MAH"
+  },
+  {
+    "description": "Mikmaq",
+    "tag": "MIK"
+  },
+  {
+    "description": "Miami",
+    "tag": "MMI"
+  },
+  {
+    "description": "Navajo",
+    "tag": "NAH"
+  },
+  {
+    "description": "Ojibwe",
+    "tag": "OJI"
+  },
+  {
+    "description": "Osage",
+    "tag": "OSA"
+  },
+  {
+    "description": "Ottawa",
+    "tag": "OTT"
+  },
+  {
+    "description": "Pawnee",
+    "tag": "PAW"
+  },
+  {
+    "description": "Pequot",
+    "tag": "PEQ"
+  },
+  {
+    "description": "Pima",
+    "tag": "PIM"
+  },
+  {
+    "description": "Potawatomi",
+    "tag": "POT"
+  },
+  {
+    "description": "Powhatan",
+    "tag": "POW"
+  },
+  {
+    "description": "Pueblo",
+    "tag": "PUE"
+  },
+  {
+    "description": "Shoshone",
+    "tag": "SHO"
+  },
+  {
+    "description": "Sioux",
+    "tag": "SIO"
+  },
+  {
+    "description": "Susquehannock",
+    "tag": "SUS"
+  },
+  {
+    "description": "Cree",
+    "tag": "WCR"
+  },
+  {
+    "description": "Air",
+    "tag": "AIR"
+  },
+  {
+    "description": "Bonoman",
+    "tag": "BON"
+  },
+  {
+    "description": "Dahomey",
+    "tag": "DAH"
+  },
+  {
+    "description": "Dagbon",
+    "tag": "DGB"
+  },
+  {
+    "description": "Fulo",
+    "tag": "FUL"
+  },
+  {
+    "description": "Jenn\u00e9",
+    "tag": "JNN"
+  },
+  {
+    "description": "Kano",
+    "tag": "KAN"
+  },
+  {
+    "description": "Kaabu",
+    "tag": "KBU"
+  },
+  {
+    "description": "Kong",
+    "tag": "KNG"
+  },
+  {
+    "description": "Katsina",
+    "tag": "KTS"
+  },
+  {
+    "description": "Mossi",
+    "tag": "MSI"
+  },
+  {
+    "description": "Nupe",
+    "tag": "NUP"
+  },
+  {
+    "description": "Timbuktu",
+    "tag": "TMB"
+  },
+  {
+    "description": "Yao",
+    "tag": "YAO"
+  },
+  {
+    "description": "Yatenga",
+    "tag": "YAT"
+  },
+  {
+    "description": "Macina",
+    "tag": "ZAF"
+  },
+  {
+    "description": "Zazzau",
+    "tag": "ZZZ"
+  },
+  {
+    "description": "Ndongo",
+    "tag": "NDO"
+  },
+  {
+    "description": "Ava",
+    "tag": "AVA"
+  },
+  {
+    "description": "Hsenwi",
+    "tag": "HSE"
+  },
+  {
+    "description": "Johor",
+    "tag": "JOH"
+  },
+  {
+    "description": "Kedah",
+    "tag": "KED"
+  },
+  {
+    "description": "Ligor",
+    "tag": "LIG"
+  },
+  {
+    "description": "Muan Phuang",
+    "tag": "MPH"
+  },
+  {
+    "description": "Mong Yang",
+    "tag": "MYA"
+  },
+  {
+    "description": "Perak",
+    "tag": "PRK"
+  },
+  {
+    "description": "Mong Mao",
+    "tag": "MMA"
+  },
+  {
+    "description": "Mong Kawng",
+    "tag": "MKA"
+  },
+  {
+    "description": "Mong Pai",
+    "tag": "MPA"
+  },
+  {
+    "description": "Mong Nai",
+    "tag": "MNI"
+  },
+  {
+    "description": "Kale",
+    "tag": "KAL"
+  },
+  {
+    "description": "Hsipaw",
+    "tag": "HSI"
+  },
+  {
+    "description": "Prome",
+    "tag": "BPR"
+  },
+  {
+    "description": "Chukchi",
+    "tag": "CHU"
+  },
+  {
+    "description": "Khodynt",
+    "tag": "HOD"
+  },
+  {
+    "description": "Chavchuveny",
+    "tag": "CHV"
+  },
+  {
+    "description": "Kamchadals",
+    "tag": "KMC"
+  },
+  {
+    "description": "Buryatia",
+    "tag": "BRT"
+  },
+  {
+    "description": "Arapaho",
+    "tag": "ARP"
+  },
+  {
+    "description": "Colima",
+    "tag": "CLM"
+  },
+  {
+    "description": "Chinook",
+    "tag": "CNK"
+  },
+  {
+    "description": "Cocomes",
+    "tag": "COC"
+  },
+  {
+    "description": "Haida",
+    "tag": "HDA"
+  },
+  {
+    "description": "Itza",
+    "tag": "ITZ"
+  },
+  {
+    "description": "Kiche",
+    "tag": "KIC"
+  },
+  {
+    "description": "Kiowa",
+    "tag": "KIO"
+  },
+  {
+    "description": "Mixtec",
+    "tag": "MIX"
+  },
+  {
+    "description": "Salish",
+    "tag": "SAL"
+  },
+  {
+    "description": "Tarascan",
+    "tag": "TAR"
+  },
+  {
+    "description": "Tlapanec",
+    "tag": "TLA"
+  },
+  {
+    "description": "Tlaxcala",
+    "tag": "TLX"
+  },
+  {
+    "description": "Totonac",
+    "tag": "TOT"
+  },
+  {
+    "description": "Wichita",
+    "tag": "WIC"
+  },
+  {
+    "description": "Xiu",
+    "tag": "XIU"
+  },
+  {
+    "description": "Blambangan",
+    "tag": "BLM"
+  },
+  {
+    "description": "Buton",
+    "tag": "BTN"
+  },
+  {
+    "description": "Cirebon",
+    "tag": "CRB"
+  },
+  {
+    "description": "Demak",
+    "tag": "DMK"
+  },
+  {
+    "description": "Pagarruyung",
+    "tag": "PGR"
+  },
+  {
+    "description": "Palembang",
+    "tag": "PLB"
+  },
+  {
+    "description": "Pasai",
+    "tag": "PSA"
+  },
+  {
+    "description": "Siak",
+    "tag": "SAK"
+  },
+  {
+    "description": "Sunda",
+    "tag": "SUN"
+  },
+  {
+    "description": "Kutai",
+    "tag": "KUT"
+  },
+  {
+    "description": "Banjar",
+    "tag": "BNJ"
+  },
+  {
+    "description": "Lanfang",
+    "tag": "LFA"
+  },
+  {
+    "description": "Lanao",
+    "tag": "LNO"
+  },
+  {
+    "description": "Luwu",
+    "tag": "LUW"
+  },
+  {
+    "description": "Maguindanao",
+    "tag": "MGD"
+  },
+  {
+    "description": "Ternate",
+    "tag": "TER"
+  },
+  {
+    "description": "Tidore",
+    "tag": "TID"
+  },
+  {
+    "description": "Madyas",
+    "tag": "MAS"
+  },
+  {
+    "description": "Pangasinan",
+    "tag": "PGS"
+  },
+  {
+    "description": "Tondo",
+    "tag": "TDO"
+  },
+  {
+    "description": "Maynila",
+    "tag": "MNA"
+  },
+  {
+    "description": "Cebu",
+    "tag": "CEB"
+  },
+  {
+    "description": "Butuan",
+    "tag": "BTU"
+  },
+  {
+    "description": "Cusco",
+    "tag": "CSU"
+  },
+  {
+    "description": "Calchaqui",
+    "tag": "CCQ"
+  },
+  {
+    "description": "Mapuche",
+    "tag": "MPC"
+  },
+  {
+    "description": "Muisca",
+    "tag": "MCA"
+  },
+  {
+    "description": "Quito",
+    "tag": "QTO"
+  },
+  {
+    "description": "Cajamarca",
+    "tag": "CJA"
+  },
+  {
+    "description": "Huyla",
+    "tag": "HJA"
+  },
+  {
+    "description": "Potiguara",
+    "tag": "PTG"
+  },
+  {
+    "description": "Tupiniquim",
+    "tag": "TPQ"
+  },
+  {
+    "description": "Tupinamba",
+    "tag": "TPA"
+  },
+  {
+    "description": "Tapuia",
+    "tag": "TUA"
+  },
+  {
+    "description": "Guarani",
+    "tag": "GUA"
+  },
+  {
+    "description": "Charrua",
+    "tag": "CUA"
+  },
+  {
+    "description": "Wanka",
+    "tag": "WKA"
+  },
+  {
+    "description": "Chachapoya",
+    "tag": "CYA"
+  },
+  {
+    "description": "Colla",
+    "tag": "CLA"
+  },
+  {
+    "description": "Charca",
+    "tag": "CRA"
+  },
+  {
+    "description": "Pacajes",
+    "tag": "PCJ"
+  },
+  {
+    "description": "Arawak",
+    "tag": "ARW"
+  },
+  {
+    "description": "Carib",
+    "tag": "CAB"
+  },
+  {
+    "description": "Ichma",
+    "tag": "ICM"
+  },
+  {
+    "description": "Matlatzinca",
+    "tag": "MAT"
+  },
+  {
+    "description": "Coixtlahuaca",
+    "tag": "COI"
+  },
+  {
+    "description": "Teotitlan",
+    "tag": "TEO"
+  },
+  {
+    "description": "Xalisco",
+    "tag": "XAL"
+  },
+  {
+    "description": "Guamar",
+    "tag": "GAM"
+  },
+  {
+    "description": "Huastec",
+    "tag": "HST"
+  },
+  {
+    "description": "Chichimeca",
+    "tag": "CCM"
+  },
+  {
+    "description": "Otomi",
+    "tag": "OTO"
+  },
+  {
+    "description": "Yokotan",
+    "tag": "YOK"
+  },
+  {
+    "description": "Tzotzil",
+    "tag": "LAC"
+  },
+  {
+    "description": "Kaqchikel",
+    "tag": "KAQ"
+  },
+  {
+    "description": "Chactemal",
+    "tag": "CTM"
+  },
+  {
+    "description": "Keres",
+    "tag": "KER"
+  },
+  {
+    "description": "Zuni",
+    "tag": "ZNI"
+  },
+  {
+    "description": "Mescalero",
+    "tag": "MSC"
+  },
+  {
+    "description": "Lipan",
+    "tag": "LIP"
+  },
+  {
+    "description": "Chorti",
+    "tag": "CHT"
+  },
+  {
+    "description": "Miskito",
+    "tag": "MIS"
+  },
+  {
+    "description": "Tairona",
+    "tag": "TAI"
+  },
+  {
+    "description": "Can Pech",
+    "tag": "CNP"
+  },
+  {
+    "description": "Tonala",
+    "tag": "TON"
+  },
+  {
+    "description": "Yaqui",
+    "tag": "YAQ"
+  },
+  {
+    "description": "Yokuts",
+    "tag": "YKT"
+  },
+  {
+    "description": "New Providence",
+    "tag": "NSS"
+  },
+  {
+    "description": "Port Royal",
+    "tag": "PRY"
+  },
+  {
+    "description": "Tortuga",
+    "tag": "TOR"
+  },
+  {
+    "description": "Libertatia",
+    "tag": "LIB"
+  },
+  {
+    "description": "Munich",
+    "tag": "UBV"
+  },
+  {
+    "description": "Landshut",
+    "tag": "LBV"
+  },
+  {
+    "description": "Ingolstadt",
+    "tag": "ING"
+  },
+  {
+    "description": "Passau",
+    "tag": "PSS"
+  },
+  {
+    "description": "Bregenz",
+    "tag": "MBZ"
+  },
+  {
+    "description": "Konstanz",
+    "tag": "KNZ"
+  },
+  {
+    "description": "Rothenburg",
+    "tag": "ROT"
+  },
+  {
+    "description": "Bayreuth",
+    "tag": "BYT"
+  },
+  {
+    "description": "Regensburg",
+    "tag": "REG"
+  },
+  {
+    "description": "Geneva",
+    "tag": "GNV"
+  },
+  {
+    "description": "Three Leagues",
+    "tag": "TTL"
+  },
+  {
+    "description": "Opole",
+    "tag": "OPL"
+  },
+  {
+    "description": "Glogow",
+    "tag": "GLG"
+  },
+  {
+    "description": "Bologna",
+    "tag": "BLG"
+  },
+  {
+    "description": "Padua",
+    "tag": "PDV"
+  },
+  {
+    "description": "Saluzzo",
+    "tag": "SZO"
+  },
+  {
+    "description": "Spoleto",
+    "tag": "SPL"
+  },
+  {
+    "description": "Wolgast",
+    "tag": "WOL"
+  },
+  {
+    "description": "Stettin",
+    "tag": "STE"
+  },
+  {
+    "description": "Goslar",
+    "tag": "GOS"
+  },
+  {
+    "description": "Lusatia",
+    "tag": "SOR"
+  },
+  {
+    "description": "R\u00fcgen",
+    "tag": "RUG"
+  },
+  {
+    "description": "Cilli",
+    "tag": "CLI"
+  },
+  {
+    "description": "Herzegovina",
+    "tag": "HRZ"
+  },
+  {
+    "description": "Trent",
+    "tag": "TNT"
+  },
+  {
+    "description": "Berg",
+    "tag": "BRG"
+  },
+  {
+    "description": "Mulhouse",
+    "tag": "MLH"
+  },
+  {
+    "description": "Bamberg",
+    "tag": "BAM"
+  },
+  {
+    "description": "Ruppin",
+    "tag": "RUP"
+  },
+  {
+    "description": "Lippe",
+    "tag": "LPP"
+  },
+  {
+    "description": "Paderborn",
+    "tag": "PAD"
+  },
+  {
+    "description": "Calenberg",
+    "tag": "CLB"
+  },
+  {
+    "description": "Donauw\u00f6rth",
+    "tag": "DWT"
+  },
+  {
+    "description": "Osnabr\u00fcck",
+    "tag": "OSN"
+  },
+  {
+    "description": "Verona",
+    "tag": "VRN"
+  },
+  {
+    "description": "Coburg",
+    "tag": "COB"
+  },
+  {
+    "description": "Lotharingia",
+    "tag": "LOT"
+  },
+  {
+    "description": "Perugia",
+    "tag": "PGA"
+  },
+  {
+    "description": "Two Sicilies",
+    "tag": "TTS"
+  },
+  {
+    "description": "Franconia",
+    "tag": "FKN"
+  },
+  {
+    "description": "Swabia",
+    "tag": "SWA"
+  },
+  {
+    "description": "Jan Mayen",
+    "tag": "JMN"
+  },
+  {
+    "description": "Roman Empire",
+    "tag": "ROM"
+  },
+  {
+    "description": "Synthetics",
+    "tag": "SYN"
+  },
+  {
+    "description": "Jomsvikings",
+    "tag": "JOM"
+  },
+  {
+    "description": "Hashashin",
+    "tag": "HAH"
+  },
+  {
+    "description": "Israel",
+    "tag": "ISR"
+  },
+  {
+    "description": "Knights Templar",
+    "tag": "TEM"
+  },
+  {
+    "description": "Trapalanda",
+    "tag": "TRL"
+  }
+]

@@ -1,10 +1,9 @@
-import { PrismaClient } from "@prisma/client";
 import { SapphireClient } from "@sapphire/framework";
 import { GatewayIntentBits } from "discord.js";
 import { config } from "dotenv";
 config();
 
-const prisma = new PrismaClient();
+// const prisma = new PrismaClient();
 const client = new SapphireClient({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages],
 });
