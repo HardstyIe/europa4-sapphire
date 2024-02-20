@@ -1,6 +1,6 @@
 import { ApplyOptions } from "@sapphire/decorators";
 import { Command } from "@sapphire/framework";
-import { APIApplicationCommandOptionChoice } from "discord.js";
+import { APIApplicationCommandOptionChoice, EmbedBuilder } from "discord.js";
 import fs from "fs";
 import { guildIds } from "../config.js";
 
@@ -32,23 +32,7 @@ export class UserCommand extends Command {
               .setDescription("List all the campaigns ongoing")
           )
           .addSubcommand((subcommand) =>
-            subcommand
-              .setName("campaigns")
-              .setDescription("Join a campaign")
-              .addStringOption((option) => {
-                return option
-                  .setName("gameid")
-                  .setDescription("The name of the campaign")
-                  .setRequired(true);
-              })
-              .addStringOption((option) => {
-                return option
-                  .setName("tag")
-                  .setDescription("The name of the campaign")
-                  .setChoices(...tag.splice(0, 25))
-                  .setAutocomplete(true)
-                  .setRequired(true);
-              })
+            subcommand.setName("campaigns").setDescription("Join a campaign")
           );
       },
       { guildIds }
@@ -58,6 +42,19 @@ export class UserCommand extends Command {
   public override async chatInputRun(
     interaction: Command.ChatInputCommandInteraction
   ) {
-    return interaction.reply({ content: "Hello world!" });
+    return interaction.reply({
+      embeds: [
+        new EmbedBuilder()
+          .setTitle("Select your country to play")
+          .setAuthor({ name: this.container.client.user!.username })
+          .setThumbnail(
+            this.container.client.user?.avatarURL({ dynamic: true })!
+          )
+          .setFooter({ text: this.container.client.user!.username })
+          .setImage("https://skanderbeg.pm/images/thumbnails/a40f83.png")
+          .setTimestamp(),
+      ],
+      fetchReply: true,
+    });
   }
 }
