@@ -32,6 +32,7 @@
   "dependencies": {
     "@sapphire/discord.js-utilities": "^7.1.6",
     "@sapphire/framework": "^5.0.7",
+    "@sapphire/plugin-editable-commands": "^4.0.2",
     "@types/node": "^20.11.19",
     "discord.js": "~14.14.1",
     "dotenv": "^16.4.4"

@@ -11,6 +11,9 @@ dependencies:
   '@sapphire/framework':
     specifier: ^5.0.7
     version: 5.0.7
+  '@sapphire/plugin-editable-commands':
+    specifier: ^4.0.2
+    version: 4.0.2
   '@types/node':
     specifier: ^20.11.19
     version: 20.11.19
@@ -283,6 +286,13 @@ packages:
       tslib: 2.6.2
     dev: false
 
+  /@sapphire/plugin-editable-commands@4.0.2:
+    resolution: {integrity: sha512-m/5sQfGKYdWW+Od6JOVYV3ZsQtVMmY5SbvlTXcv0VxtP8VE0eTjMyb7qV1SEFCxnyuz22RDTJA/V5B2KhVLt1Q==}
+    engines: {node: '>=v18', npm: '>=7'}
+    dependencies:
+      '@skyra/editable-commands': 3.0.1
+    dev: false
+
   /@sapphire/ratelimits@2.4.9:
     resolution: {integrity: sha512-eEE385IrFsD90gg696MWNqbeDjo1ZgtBvL66BezIwJEwDguhLP5AVsBsT4uCacX/92aeHl8i2nVvtusIBXZNSg==}
     engines: {node: '>=v14.0.0', npm: '>=7.0.0'}
@@ -323,6 +333,11 @@ packages:
   /@sapphire/utilities@3.15.3:
     resolution: {integrity: sha512-K5dFGOB5XvblXFN+Av+Tch/dVBAifmxtZ9/2mFo8VqzbiaFJIRUuoPAoNsp8pWYaU423yV8bfD8WsCSNd9w1YQ==}
     engines: {node: '>=v14.0.0'}
+    dev: false
+
+  /@skyra/editable-commands@3.0.1:
+    resolution: {integrity: sha512-Dvx7k9D3XMVHT8+GTagh+/87RIOmYHx5uVsETFjUx3DutbTpNcynYsoHA+U4JcKSLj4ziR5zk0xgYOAMBNYIlw==}
+    engines: {node: '>=16.6', npm: '>=7.24.2'}
     dev: false
 
   /@types/node@20.11.19:
